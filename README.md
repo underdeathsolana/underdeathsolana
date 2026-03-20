@@ -1,13 +1,13 @@
 <h1 align="center">💀 UNDERDEATHSOLANA</h1>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1621761191319-c6fb62004040?q=80&w=1200&auto=format&fit=crop" />
+  <img src="https://raw.githubusercontent.com/underdeathsolana/underdeathsolana/main/-zdld6l.jpg" width="800"/>
 </p>
 
 <h3 align="center">🚀 Crypto • AI Agents • Automation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFAA&center=true&vCenter=true&width=600&lines=Building+AI+Crypto+Systems;Automation+%2B+Blockchain+Intelligence;Solana+%2F+EVM+Developer;24%2F7+Bot+Builder;Future+of+Trading+is+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF00FF&center=true&vCenter=true&width=600&lines=Cyberpunk+Crypto+Builder;AI+Agents+%2B+Automation;Solana+%2F+EVM+Developer;24%2F7+Bot+Operator;Future+is+Decentralized" />
 </p>
 
 ---
@@ -16,10 +16,10 @@
 
 <p align="center">
   <a href="https://x.com/LilFID12">
-    <img src="https://img.shields.io/badge/Twitter-00FFAA?style=for-the-badge&logo=twitter&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Twitter-FF00FF?style=for-the-badge&logo=twitter&logoColor=black"/>
   </a>
   <a href="https://t.me/underdeathsol">
-    <img src="https://img.shields.io/badge/Telegram-00FFAA?style=for-the-badge&logo=telegram&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Telegram-FF00FF?style=for-the-badge&logo=telegram&logoColor=black"/>
   </a>
 </p>
 
@@ -27,13 +27,13 @@
 
 ## 🧠 About Me
 
-I build **next-generation crypto systems** powered by:
+I build **cyberpunk-style crypto systems** powered by:
 
 - 🤖 AI Agents  
 - ⚡ Automation  
-- 🔗 Blockchain Data  
+- 🔗 Blockchain Intelligence  
 
-Focused on creating tools for:
+Creating tools for:
 - Traders 📈  
 - Developers 🧑‍💻  
 - Crypto Communities 🌐  
@@ -43,10 +43,10 @@ Focused on creating tools for:
 ## 🚀 What I'm Building
 
 - 🤖 AI Crypto Analyzer Bot  
-- 📊 Real-Time Token Scanner (Solana)  
+- 📊 Solana Token Scanner (24/7)  
 - 🔍 Multi-Chain Intelligence System  
 - 📡 Auto Signal & Alert Bot  
-- 🌐 Crypto Web Dashboard  
+- 🌐 Crypto Dashboard  
 
 ---
 
@@ -61,24 +61,24 @@ Focused on creating tools for:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=underdeathsolana&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=underdeathsolana&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=underdeathsolana&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=underdeathsolana&theme=tokyonight" />
 </p>
 
 ---
 
 ## ⚡ Current Focus
 
-- 🔥 Solana Token Scanner (24/7)  
-- 🤖 AI Trading Assistant  
+- 🔥 Real-Time Token Detection  
+- 🤖 AI Trading Systems  
 - 🌐 Web + Bot Integration  
-- ⚡ Automation Systems  
+- ⚡ Full Automation  
 
 ---
 
 ## 🌐 Vision
 
-> Building the future of crypto with AI & automation
+> Build autonomous crypto systems powered by AI
 
 - Faster ⚡  
 - Smarter 🧠  
@@ -86,17 +86,9 @@ Focused on creating tools for:
 
 ---
 
-## 🧪 Projects
-
-- 💰 Bagsscreener Bot  
-- 🤖 Multi-Chain Analyzer  
-- 📊 Crypto Tracker Web  
-
----
-
 ## ⚠️ Disclaimer
 
-Crypto is highly risky.  
+Crypto is risky.  
 Always **DYOR (Do Your Own Research)**.
 
 ---
