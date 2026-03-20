@@ -1,16 +1,69 @@
-## Hi there 👋
+# 💀 UNDERDEATHSOLANA
 
-<!--
-**underdeathsolana/underdeathsolana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Crypto • AI Agents • Automation
 
-Here are some ideas to get you started:
+Welcome to my world of **crypto technology and intelligent systems**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on building advanced tools that combine **blockchain data**, **automation**, and **AI agents** to create powerful ecosystems for trading and analysis.
+
+---
+
+## 🧠 What I Do
+
+- 🤖 Build AI-powered crypto bots  
+- 📊 Develop real-time token analyzers  
+- ⚡ Automate trading signals & alerts  
+- 🔍 Analyze multi-chain ecosystems (SOL / EVM / BASE)  
+- 🛡️ Detect honeypots & risky tokens  
+- 🌐 Create web + Telegram integrations  
+
+---
+
+## 🛠️ Tech Stack
+
+- Python 🐍  
+- Node.js ⚡  
+- Telegram Bot API 🤖  
+- Blockchain APIs (Dexscreener, Birdeye, GeckoTerminal)  
+- Termux & Linux Environment  
+
+---
+
+## 🔥 Current Focus
+
+- 🚀 Solana Token Scanner (24/7)  
+- 🤖 AI Crypto Analyzer Bot  
+- 🌐 Web Dashboard (Live Token Tracking)  
+- 📡 Auto Alert System  
+
+---
+
+## 🌐 Vision
+
+> Building the future of crypto with automation and AI.
+
+I aim to create systems that:
+- Think faster ⚡  
+- Analyze deeper 🧠  
+- Execute smarter 🤖  
+
+---
+
+## 📈 Projects
+
+- 🔥 Bagsscreener Bot  
+- 🤖 Multi-Chain Analyzer  
+- 📊 Crypto Web Tracker  
+
+---
+
+## ⚠️ Disclaimer
+
+Crypto is highly risky.  
+Always **DYOR (Do Your Own Research)**.
+
+---
+
+## 💀 UNDERDEATHSOLANA
+
+> Where Crypto Meets Intelligence 🚀
