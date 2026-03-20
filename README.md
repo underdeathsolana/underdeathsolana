@@ -3,7 +3,31 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/underdeathsolana/underdeathsolana/main/-zdld6l.jpg" width="800"/>
 </p>
+---
 
+## 🟢 System Status
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BOT-ONLINE-00FFAA?style=for-the-badge&logo=robot&logoColor=black" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FFAA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UPTIME-24%2F7-00FFAA?style=for-the-badge" />
+</p>
+
+---
+
+## 👁️ Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=underdeathsolana&label=Profile+Views&color=00ffaa&style=for-the-badge" />
+</p>
+
+---
+
+## ⚡ Live Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=underdeathsolana&theme=tokyo-night&hide_border=true" />
+</p>
 <h3 align="center">🚀 Crypto • AI Agents • Automation</h3>
 
 <p align="center">
